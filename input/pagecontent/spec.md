@@ -5,4 +5,5 @@ And an icon: ![resource](icon-resource.png)
 
 And link to [a sub-page](spec2.html)
 
-BURST-MARKER 120503-0
+
+BURST-MARKER 120503-1
